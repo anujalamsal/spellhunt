@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>cutelose.png</file>
+        <file>cutewin.png</file>
+        <file>desertgame.png</file>
+        <file>destlose.png</file>
+        <file>destwin.png</file>
+        <file>empty heart.png</file>
+        <file>first_page.jpg</file>
+        <file>firstpagereee.png</file>
+        <file>forest.png</file>
+        <file>fullheart.png</file>
+        <file>islandgame.png</file>
+        <file>left empty heart.png</file>
+        <file>lose.png</file>
+        <file>right half hear.png</file>
+        <file>second page.jpg</file>
+        <file>win.png</file>
+        <file>windia.png</file>
+        <file>../../../islandlose.png</file>
+        <file>islandlose.png</file>
+        <file>islandwin.png</file>
+    </qresource>
+</RCC>
